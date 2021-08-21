@@ -1,0 +1,18 @@
+Compial Executável
+booc HelloWorld.boo -plataform:x64
+booc -output:build/helloforms.exe helloforms.boo
+booc -r:System.Windows.Forms -out:HelloForms.exe helloforms.boo
+
+Compila Winforms
+booc -r:System.Windows.Forms -out:HelloForms.exe helloforms.boo -t:winexe
+booc -r:System.Windows.Forms -out:WinForms2.exe Winforms2.boo -t:winexe
+booc -r:System.Windows.Forms -out:WinSize.exe WinSize.boo -t:winexe
+booc -r:System.Windows.Forms -out:EditorTexto.exe EditorTexto.boo -t:winexe
+booc -t:library -out:build/MyLibrary.dll alibrary.boo
+
+
+
+booc -nostdlib -target:library -lib:"C:\Program Files\Microsoft SDKs\Silverlight\v2.0\Reference Assemblies","C:\Program Files\Microsoft SDKs\Silverlight\v2.0\Libraries\Client" Tetris.boo
+booc -r:System.Windows.Forms -out:toolbar2.exe C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\Exemplos\WinForms\toolbar2.boo
+
+booc -r:C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\Exemplos\ia\ML\Microsoft.ML.Data -out:ia.exe ia.boo 

@@ -1,0 +1,10 @@
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\bin\Debug\net40\Boo.Lang.Parser.dll
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\bin\Debug\net40\Boo.Lang.Parser.pdb
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\bin\Debug\net40\Boo.Lang.Compiler.dll
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\bin\Debug\net40\Boo.Lang.dll
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.csproj.CopyComplete
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.dll
+C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooParser\obj\Debug\net40\Boo.Lang.Parser.pdb

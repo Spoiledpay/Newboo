@@ -1,0 +1,7 @@
+CAMPOS
+Bottom	2  A borda inferior do controle está encaixada na parte inferior do controle recipiente.
+Fill	5  Todas as bordas do controle estão encaixadas em todas as bordas do controle recipiente e dimensionadas adequadamente.
+Left	3  A borda esquerda do controle está encaixada na borda esquerda do controle recipiente.
+None	0  O controle não está encaixado.
+Right	4  A borda direita do controle está encaixada na borda direita do controle recipiente.
+Top	1  A borda superior do controle está encaixada na parte superior do controle recipiente.

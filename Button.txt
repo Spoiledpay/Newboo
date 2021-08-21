@@ -1,0 +1,12 @@
+bt = Button(
+    Name:"btn1",
+    Text:"Ok",
+    TabIndex: 2,
+    Dock: DockStyle.None,
+    #Visible: false,
+    Size.Width = 33,
+    Size.Height = 23,
+    Click: {
+           MessageBox.Show("O botão foi clicado")
+        }
+)
