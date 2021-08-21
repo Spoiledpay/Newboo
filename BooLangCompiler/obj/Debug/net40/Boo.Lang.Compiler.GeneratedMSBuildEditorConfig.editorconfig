@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Boo.Lang.Compiler
+build_property.ProjectDir = C:\Users\ferna\Desktop\NewLang\Descompiler\BooLang\BooLangCompiler\

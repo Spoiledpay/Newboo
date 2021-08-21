@@ -1,0 +1,7 @@
+Fixed3D		  2  Uma borda fixa, tridimensional.
+FixedDialog	  3  Uma borda espessa e fixa no estilo de caixa de diálogo.
+FixedSingle	  1  Uma borda fixa, de linha única.
+FixedToolWindow	  5  Uma borda da janela de ferramentas não redimensionável. Uma janela de ferramentas não é exibida na barra de tarefas ou na janela exibida quando o usuário pressiona ALT+TAB. Embora os formulários que especificam FixedToolWindow normalmente não sejam mostrados na barra de tarefas, você também deve garantir que a propriedade ShowInTaskbar está definida como false, pois o valor padrão é true.
+None		  0  Sem borda.
+Sizable		  4  Uma borda redimensionável.
+SizableToolWindow 6  Uma borda da janela de ferramentas redimensionável. Uma janela de ferramentas não é exibida na barra de tarefas ou na janela exibida quando o usuário pressiona ALT+TAB.

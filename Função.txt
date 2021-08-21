@@ -1,0 +1,8 @@
+def NAME( LIST OF PARAMETERS ):
+ STATEMENTS
+
+
+def newLine():
+ print
+
+

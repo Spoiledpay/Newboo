@@ -1,0 +1,13 @@
+Operator	Meaning		Example
+
+   == 		equal 		5 == 5
+
+   != 	     not equal           0 != 5
+
+   >   	   greater than         4 > 2
+
+  <        less than            2 < 4
+
+   >=  greater than or equal to  7 >= 7 and 7 >= 4
+
+   <=  less than or equal to  4 <= 8 and 6 <= 6
