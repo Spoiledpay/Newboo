@@ -1,5 +1,5 @@
-Compial Executável
-booc HelloWorld.boo -plataform:x64
+Compilar  Executável
+booc HelloWorld.boo
 booc -output:build/helloforms.exe helloforms.boo
 booc -r:System.Windows.Forms -out:HelloForms.exe helloforms.boo
 
